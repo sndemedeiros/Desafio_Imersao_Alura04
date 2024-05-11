@@ -24,4 +24,3 @@ O código para o "Duelo de Repentes" é uma aplicação Python interativa que se
 5. **Melhorias de Interface:**
    - Utiliza a biblioteca `IPython.display` para melhorar a formatação das saídas, tornando a interação mais amigável e visualmente agradável.
 
-Este resumo fornece uma visão geral clara das funcionalidades e estrutura do código, facilitando a compreensão de como o jogo funciona e como é implementado.
