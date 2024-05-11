@@ -1,6 +1,6 @@
 ## Resumo do Código para o "Duelo de Repentes"
 
-O código para o "Duelo de Repentes" é uma aplicação Python interativa que se integra com a API do Google Generative AI para criar e avaliar repentes, que são formas tradicionais de poesia popular improvisada. A aplicação oferece dois modos de jogo: o Modo Normal e o Modo Desafio.
+O código para o "Duelo de Repentes" é uma aplicação Python interativa que se integra com a API do Google Generative AI para criar e avaliar "repentes", que são formas tradicionais de poesia popular improvisada. A aplicação oferece dois modos de jogo: o Modo Normal e o Modo Desafio.
 
 ### Resumo dos Componentes do Código:
 
